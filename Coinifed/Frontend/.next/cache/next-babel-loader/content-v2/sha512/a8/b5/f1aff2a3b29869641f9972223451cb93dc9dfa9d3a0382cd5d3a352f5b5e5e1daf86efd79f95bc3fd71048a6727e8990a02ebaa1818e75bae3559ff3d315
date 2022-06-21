@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as OrderDetail } from './OrderDetail';","map":null,"metadata":{},"sourceType":"module"}

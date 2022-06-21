@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './PrivayPolicy';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/PrivayPolicy/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,gBAAxB","sourcesContent":["export { default } from './PrivayPolicy';\r\n"]},"metadata":{},"sourceType":"module"}

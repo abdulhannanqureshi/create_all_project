@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Labs';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Labs/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,QAAtB","sourcesContent":["export {default} from './Labs'"]},"metadata":{},"sourceType":"module"}

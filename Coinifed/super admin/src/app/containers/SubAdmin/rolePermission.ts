@@ -1,0 +1,46 @@
+const rolePermission = [
+  { value: "AllSelected", label: "Select All" },
+  { value: "Dashboard", label: "Dashboard - View" },
+  { value: "Blog Management", label: "Blog Management - View" },
+  { value: "BlogEdit", label: "Blog Management - Edit" },
+  { value: "Course Management", label: "Course Management - View" },
+  { value: "CourseEdit", label: "Course Management - Edit" },
+  {
+    value: "Customer Enterprise Solution",
+    label: "Customer Enterprise Solution - View",
+  },
+  { value: "CustomerEdit", label: "Customer Enterprise Solution -  Edit" },
+  { value: "Certificate Requests", label: "Certificate Requests - View" },
+  { value: "CertificateEdit", label: "Certificate Requests - Edit" },
+  { value: "Corporate", label: "Corporation Management - View" },
+  { value: "CorporateEdit", label: "Corporation Management - Edit" },
+  { value: "Email Templates", label: "Email Templates - View" },
+  { value: "EmailTemplatesEdit", label: "Email Templates - Edit" },
+  { value: "Promo Codes Management", label: "Promo Codes Management - View" },
+  { value: "PromoCodesEdit", label: "Promo Codes Management - Edit" },
+  {
+    value: "Press Release Management",
+    label: "Press Release Management - View",
+  },
+  { value: "PressReleaseEdit", label: "Press Release Management - Edit" },
+  { value: "Sub Admin", label: "Sub Admin Management - View" },
+  { value: "SubAdminEdit", label: "Sub Admin Management - Edit" },
+  { value: "Settings", label: "Settings - View" },
+  { value: "SettingsEdit", label: "Settings - Edit" },
+  { value: "Transaction Management", label: "Transaction Management - View" },
+  { value: "TransactionEdit", label: "Transaction Management - Edit" },
+  { value: "Users", label: "Users - View" },
+  { value: "UserEdit", label: "Users - Edit" },
+  { value: "University", label: "University Management - View" },
+  { value: "UniversityEdit", label: "University Management - Edit" },
+  { value: "CMS Management", label: "CMS Management - View" },
+  { value: "CmsEdit", label: "CMS Management - Edit" },
+  // { value: "Our Team", label: "Our Team - View" },
+  // { value: "ourTeamEdit", label: "Our Team - Edit" },
+  
+  // { value: "Labs", label: "Labs - View" },
+  // { value: "labEdit", label: "Labs - Edit" },
+
+];
+
+export default rolePermission;

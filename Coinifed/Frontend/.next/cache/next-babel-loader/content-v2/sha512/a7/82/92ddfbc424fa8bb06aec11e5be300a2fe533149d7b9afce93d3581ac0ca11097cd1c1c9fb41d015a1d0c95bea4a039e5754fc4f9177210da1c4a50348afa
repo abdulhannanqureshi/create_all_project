@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './LatestStories';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Blog/components/LatestStories/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,iBAAxB","sourcesContent":["export { default } from './LatestStories';\r\n"]},"metadata":{},"sourceType":"module"}

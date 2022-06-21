@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\r\n * Caution: Consider this file when using NextJS or GatsbyJS\r\n *\r\n * You may delete this file and its occurrences from the project filesystem if you are using react-scripts\r\n */\nimport Marketing from 'views/Marketing';\nexport default Marketing;","map":null,"metadata":{},"sourceType":"module"}

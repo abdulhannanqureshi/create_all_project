@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Course';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Course/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,UAAxB","sourcesContent":["export { default } from './Course';\r\n"]},"metadata":{},"sourceType":"module"}

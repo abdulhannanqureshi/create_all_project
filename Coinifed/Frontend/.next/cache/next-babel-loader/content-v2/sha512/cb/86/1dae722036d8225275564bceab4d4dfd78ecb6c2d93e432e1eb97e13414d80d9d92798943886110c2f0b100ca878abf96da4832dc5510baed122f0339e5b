@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Security';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Dashboard/components/Security/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,YAAxB","sourcesContent":["export { default } from './Security';\r\n"]},"metadata":{},"sourceType":"module"}

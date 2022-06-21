@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './ForgotPasswordSimple';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/ForgotPasswordSimple/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,wBAAxB","sourcesContent":["export { default } from './ForgotPasswordSimple';\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Subscription';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Marketing/components/Subscription/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,gBAAxB","sourcesContent":["export { default } from './Subscription';\r\n"]},"metadata":{},"sourceType":"module"}

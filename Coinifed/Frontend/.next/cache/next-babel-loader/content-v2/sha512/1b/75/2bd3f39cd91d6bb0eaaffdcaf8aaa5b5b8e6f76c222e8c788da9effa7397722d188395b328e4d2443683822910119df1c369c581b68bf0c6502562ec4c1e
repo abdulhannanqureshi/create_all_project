@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './SimilarStories';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/BlogArticle/components/SimilarStories/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,kBAAxB","sourcesContent":["export { default } from './SimilarStories';\r\n"]},"metadata":{},"sourceType":"module"}

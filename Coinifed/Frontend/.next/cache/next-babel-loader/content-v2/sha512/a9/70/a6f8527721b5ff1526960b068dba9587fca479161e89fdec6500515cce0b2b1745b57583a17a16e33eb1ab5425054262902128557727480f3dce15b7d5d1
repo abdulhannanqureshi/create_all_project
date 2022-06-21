@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './OrderDetail';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/AddCard/components/OrderDetail/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,eAAxB","sourcesContent":["export { default } from './OrderDetail';\r\n"]},"metadata":{},"sourceType":"module"}

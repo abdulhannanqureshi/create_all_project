@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './labModal';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/CourseDetail/components/LabModal/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,YAAtB","sourcesContent":["export {default} from './labModal'"]},"metadata":{},"sourceType":"module"}

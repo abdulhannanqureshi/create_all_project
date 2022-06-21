@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Certificate';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Certificate/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,eAAtB","sourcesContent":["export {default} from './Certificate'"]},"metadata":{},"sourceType":"module"}

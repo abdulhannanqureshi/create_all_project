@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from 'react';\nexport var Context = /*#__PURE__*/React.createContext();\nexport var Provider = Context.Provider;\nexport var Consumer = Context.Consumer;","map":null,"metadata":{},"sourceType":"module"}

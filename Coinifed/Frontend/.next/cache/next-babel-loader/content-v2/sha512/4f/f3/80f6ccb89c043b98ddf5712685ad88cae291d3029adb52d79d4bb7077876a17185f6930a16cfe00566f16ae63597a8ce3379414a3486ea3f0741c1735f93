@@ -1,0 +1,1 @@
+{"ast":null,"code":"/**\r\n * Caution: Consider this file when using NextJS or GatsbyJS\r\n *\r\n * You may delete this file and its occurrences from the project filesystem if you are using react-scripts\r\n */\nimport Enterprise from '../src/views/Enterprise';\nexport var __N_SSG = true;\nexport default Enterprise;","map":null,"metadata":{},"sourceType":"module"}

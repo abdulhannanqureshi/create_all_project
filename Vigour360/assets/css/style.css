@@ -1,0 +1,541 @@
+/* Home S
+-------------------------*/
+.info-wrapper{
+	padding: 50px;
+	text-align: center;
+}
+.service-inner {
+    padding: 32px 0 0;
+    position: relative;
+    background: #fff;
+    box-shadow: 0 0 3px #ead4d9;
+    text-align: center;
+    margin-bottom: 30px;
+    height: calc(100% - 30px);
+    transition: all 0.3s ease-in-out;
+}
+.service-inner:hover{
+	box-shadow: 0 0 5px 3px #e2d3d3;
+    transform: scale(1.02);
+    border-radius: 12px;
+}
+.service-inner.bg-gains-light:hover{
+	box-shadow: 0 0 3px #d2c9c9;
+}
+.service-inner a:hover{
+	text-decoration: none;
+	color: #382F31;
+}
+.service-inner img {
+    height: 120px;
+    margin-bottom: 32px;
+}
+.service-inner h3 {
+    font-size: 21px;
+    max-width: 200px;
+    margin: 0 auto 15px;
+}
+.service-inner span {
+    display: block;
+    background: #100B78;
+    width: 100%;
+    height: 8px;
+    border-radius: 10px;
+}
+.know-inner {
+    text-align: center;
+    max-width: 190px;
+    margin: 0 auto;
+}
+.know-inner .big-title{
+    display: inline-block;
+    border-bottom: solid 1px #382f31;
+    color: #100B78;
+    margin-bottom: 15px;
+}
+.know-inner .big-title span{
+	display: inline-block;
+    margin-left: -15px;
+}
+.inner-alarmed .common-bigmid-text{
+    max-width: 180px;
+    margin: 0 auto;
+}
+.service-wave-img{
+	margin-top: -182px;
+	margin-bottom: -2px;
+}
+.service-wave-img-bottom{
+	margin-top: -3px;
+	position: relative;
+}
+.service-wave-img img,
+.service-wave-img-bottom img{
+	width: 100%;
+	display: block;
+}
+@media (max-width: 991px) {
+	.info-wrapper {
+    	padding: 30px;
+    }
+    .service-wave-img {
+    	margin-top: -100px;
+    }
+    .service-inner {
+    	padding: 22px 0 0;
+	}
+    .service-inner img {
+	    height: 82px;
+	    margin-bottom: 25px;
+	}
+	.service-inner h3 {
+	    font-size: 18px;
+	    max-width: 150px;
+    }
+    .know-inner .big-title span {
+    	margin-left: -8px;
+	}
+}
+@media (max-width: 767px) {
+	.info-wrapper {
+	    padding: 30px 15px 40px;
+	}
+	.know-inner{
+		margin-bottom: 15px;
+		height: calc(100% - 15px);
+	}
+}
+@media (max-width: 575px) {
+	.info-wrapper {
+    	padding: 30px 10px 62px;
+	}
+	.service-inner {
+    	margin-bottom: 15px;
+    	height: auto;
+    }
+	.service-inner img {
+	    height: 72px;
+	    margin-bottom: 15px;
+	}
+	.service-inner span {
+    	height: 6px;
+	}
+	.inner-alarmed{
+		margin-bottom: 20px;
+	}
+}
+/* Home E
+-------------------------*/
+/* About S
+-------------------------*/
+.about-banner{
+	position: relative;
+}
+.about-banner .pos-r12-t0{
+	top: -12px;
+}
+.about-banner .dots-img {
+    position: absolute;
+    bottom: -120px;
+    right: 0;
+}
+.about-banner .dots-img img{	
+	height: 162px;
+}
+.well-important{
+	height: calc(100% - 40px);
+	margin-bottom: 40px;
+}
+.inner-alarmed.well-important .common-bigmid-text {
+    max-width: 216px;
+}
+.your-choose{
+	height: calc(100% - 20px);
+	margin-bottom: 20px;
+}
+@media (max-width: 991px){
+	.about-banner .dots-img {
+   		bottom: -66px;
+    }
+	.about-banner .dots-img img{	
+		height: 142px;
+	}
+	.about-banner .pos-r12-t0 {
+    	top: -7px;
+	}
+}
+@media (max-width: 767px){
+	.about-banner .pos-r12-t0 {
+    	top: -5px;
+	}
+	.about-banner .dots-img {
+   		bottom: -55px;
+    }
+	.about-banner .dots-img img {
+    	height: 120px;
+	}	
+}
+@media (max-width: 575px){
+	.about-banner .pos-r12-t0 {
+    	top: -4px;
+	}
+	.about-banner .dots-img {
+    	bottom: -38px;
+	}
+	.about-banner .dots-img img {
+    	height: 80px;
+	}	
+}
+/* About E
+-------------------------*/
+/* Annual Health S
+-------------------------*/
+.anual-banner-wrapper img{
+	/*height: 780px;*/
+	object-position: right top;
+}
+.annual-health-wrapper .inner-alarmed{
+	height: calc(100% - 40px);
+	margin-bottom: 40px;
+}
+.last-row-space-rmv .col-sm-4:nth-last-child(1) .inner-alarmed,  
+.last-row-space-rmv .col-sm-4:nth-last-child(2) .inner-alarmed,  
+.last-row-space-rmv .col-sm-4:nth-last-child(3) .inner-alarmed{ 
+	height: calc(100% - 25px);
+	margin-bottom: 25px;
+}
+.annual-health-wrapper .inner-alarmed .common-bigmid-text{
+	max-width: 100%;
+}
+@media (max-width: 991px){
+	.anual-banner-wrapper img {
+	    height: 340px;
+	    object-fit: cover;
+	}
+}
+@media (max-width: 767px){
+	.anual-banner-wrapper img {
+    	height: 280px;
+    }
+}
+@media (max-width: 575px){
+	.annual-health-wrapper .inner-alarmed{
+		height: calc(100% - 25px);
+		margin-bottom: 25px;
+	}
+}
+/* Annual Health E
+-------------------------*/
+/* Blog S
+-------------------------*/
+.blog-wrapper.about-banner{
+	margin-bottom: 30px;
+	margin-top: 110px;
+}
+.blog-banner {
+    padding:40px 0 15px;
+}
+.blog-banner img {
+    width: 100%;
+    height: 470px;
+    object-fit: contain;
+}
+.blog-wrapper.about-banner .dots-img {
+    bottom: 0;
+}
+@media (max-width: 1200px){
+	.blog-wrapper .m-w-900{
+		max-width: 670px;
+	}	
+}
+@media (max-width: 991px){
+	.blog-wrapper.about-banner{
+		margin-bottom: 10px;
+		margin-top: 90px;
+	}
+	.blog-wrapper.about-banner .dots-img img {
+    	height: 100px;
+	}
+	.blog-banner {
+    	padding: 30px 0 10px;
+	}
+	.blog-banner img {
+    	height: 360px;
+    }
+    .blog-wrapper .m-w-900 {
+    	max-width: 500px;
+	}
+}
+@media (max-width: 767px){
+	.blog-banner {
+    	padding: 15px 0 10px;
+	}
+	.blog-banner img {
+    	height: 300px;
+	}
+	.blog-wrapper .m-w-900 {
+    	max-width: 400px;
+	}
+}
+@media (max-width: 575px){
+	.blog-wrapper.about-banner{
+		margin-top: 70px;
+	}
+	.blog-banner {
+    	padding: 25px 0 15px;
+	}
+	.blog-banner img {
+    	height: 212px;
+    }
+    .blog-wrapper .m-w-900 {
+	    max-width: 245px;
+	}
+	.about-banner.blog-wrapper .dots-img img {
+    	height: 55px;
+	}
+	.blog-wrapper.about-banner .dots-img {
+	    bottom: 0;
+	}
+}
+/* Blog E
+-------------------------*/
+/* Fitness Management S
+-------------------------*/
+.fitness-management .footer-top-wave{
+	margin-top: -192px;
+}
+.sports-management .footer-top-wave{
+	margin-top: -160px;
+}
+@media (max-width: 1300px){
+	.sports-management .footer-top-wave{
+		margin-top: -146px;
+	}
+}
+@media (max-width: 1200px){
+	.fitness-management .footer-top-wave {
+	    margin-top: -168px;
+	}
+	.sports-management .footer-top-wave{
+		margin-top: -110px;
+	}
+}
+@media (max-width: 991px){
+	.fitness-management .footer-top-wave {
+	    margin-top: -135px;
+	}
+}
+@media (max-width: 767px){
+	.fitness-management .footer-top-wave {
+	    margin-top: -115px;
+	}
+}
+@media (max-width: 575px){
+	.fitness-management .footer-top-wave {
+	    margin-top: -85px;
+	}
+	.sports-management .footer-top-wave{
+		margin-top: -80px;
+	}
+}
+/* Fitness Management E
+-------------------------*/
+/* Services S
+-------------------------*/
+.map-wrapper {
+    padding: 50px 0 0;
+}
+.map-wrapper img{
+	width:560px;
+}
+@media (max-width: 575px){
+	.map-wrapper {
+	    padding: 30px 0 0;
+	}
+}
+/* Services E
+-------------------------*/
+/* Sports S
+-------------------------*/
+.sports-inner{
+	text-align: center;
+}
+@media (max-width: 1350px){
+	.sports-inner{
+		max-width: 1000px;
+		margin: 0 auto;
+	}
+}
+@media (max-width: 1200px){
+	.sports-inner{
+		max-width: 850px;
+	}
+}
+@media (max-width: 991px){
+	.sports-inner{
+		max-width: 680px;
+	}
+}
+@media (max-width: 767px){
+	.sports-inner{
+		max-width: 500px;
+	}
+}
+/* Sports E
+-------------------------*/
+/* Maintanance S
+-------------------------*/
+.body-wrapper::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+.maintanance-wrapper {
+	position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    text-align: center;
+    background:url(../img/img_slide1_maint.png) no-repeat scroll center center;
+    background-size: cover;
+    min-height: 100vh;
+    box-sizing: border-box;
+	color: #fff;
+}
+.maintanance-inner{
+	max-width: 1200px;
+	position: relative;
+	z-index: 999;
+}
+.maintanance-inner h2{
+    font-size: 38px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.maintanance-inner img{
+	width: 130px;
+}
+.overlay {
+    position: absolute;
+    background: #00000047;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.get-in-touch h2{
+	font-size: 30px;
+ 	font-weight: 600;
+    margin: 28px 0 20px;
+}
+.get-in-touch a{
+	display: inline-block;
+	font-size: 19px;
+	color: #fff;
+}
+.get-in-touch a:hover{
+	text-decoration: none;
+}
+.get-in-touch a img {
+    vertical-align: middle;
+    width: auto;
+    height: 22px;
+}
+@media (max-width: 767px){
+	.maintanance-wrapper{
+	    background: url(../img/img_slide1_maint.png) no-repeat scroll left center;
+		background-size: cover;
+	}
+	.maintanance-inner img {
+    	width: 82px;
+	}
+	.maintanance-inner h2 {
+    	font-size: 26px;
+    }
+    .get-in-touch h2 {
+	    font-size: 24px;
+	    margin: 15px 0;
+	}
+	.get-in-touch a {
+    	font-size: 16px;
+	    color: #fff;
+	}
+	.get-in-touch a img {
+    	height: 18px;
+	}
+}
+@media (max-width: 575px){
+	.maintanance-inner img {
+    	width: 72px;
+	}
+	.maintanance-inner h2 {
+    	font-size: 22px;
+    }
+    .get-in-touch h2 {
+	    font-size: 20px;
+	    margin: 12px 0;
+	}
+	.get-in-touch a {
+    	font-size: 15px;
+	    color: #fff;
+	}
+	.get-in-touch a img {
+    	height: 18px;
+	}
+}
+/* Maintanance E
+-------------------------*/
+/* Thank You Message S
+-------------------------*/
+.suc-sms {
+    font-size: 18px;
+    margin: 12px 0 0;
+}
+.thankyou-wrapper{
+	display: none;
+    text-align: center;
+    max-width: 500px;
+    margin: 30px auto;
+    box-shadow: 0 0 3px #bfb8b8;
+    padding: 60px 50px 42px;
+    border-radius: 12px;
+}
+.thankyou-wrapper img{
+	width: 100px;
+}
+.thankyou-wrapper .common-btn{
+	border-radius: 6px;
+}
+@media (max-width: 991px){
+	.thankyou-wrapper {
+	    max-width: 420px;
+	    margin: 20px auto;
+	    padding: 40px;
+    }
+    .thankyou-wrapper img {
+    	width: 80px;
+	}
+}
+@media (max-width: 767px){
+	.thankyou-wrapper {
+	    max-width: 320px;
+	    margin: 12px auto;
+	    padding: 22px;
+	}
+    .thankyou-wrapper img {
+    	width: 72px;
+	}
+	.thankyou-wrapper .common-btn {
+	    min-width: 132px;
+	    padding: 6px 12px;
+	    font-size: 15px;
+	}
+}
+@media (max-width: 767px){
+    .thankyou-wrapper img {
+    	width: 62px;
+	}
+}
+/* Thank You Message E
+-------------------------*/

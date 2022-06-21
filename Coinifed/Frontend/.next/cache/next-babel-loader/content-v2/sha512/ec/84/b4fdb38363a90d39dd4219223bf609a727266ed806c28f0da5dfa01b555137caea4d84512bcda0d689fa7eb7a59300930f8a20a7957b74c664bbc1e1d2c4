@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './University';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/University/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,cAAxB","sourcesContent":["export { default } from './University';\r\n"]},"metadata":{},"sourceType":"module"}

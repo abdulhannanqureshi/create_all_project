@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './SectionAlternate';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/components/organisms/SectionAlternate/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,oBAAxB","sourcesContent":["export { default } from './SectionAlternate';\r\n"]},"metadata":{},"sourceType":"module"}

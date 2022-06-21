@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as Hero } from \"./Hero\";","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Certificate/components/index.js"],"names":["default","Hero"],"mappings":"AAAA,SAASA,OAAO,IAAIC,IAApB,QAAgC,QAAhC","sourcesContent":["export { default as Hero } from \"./Hero\";\r\n"]},"metadata":{},"sourceType":"module"}

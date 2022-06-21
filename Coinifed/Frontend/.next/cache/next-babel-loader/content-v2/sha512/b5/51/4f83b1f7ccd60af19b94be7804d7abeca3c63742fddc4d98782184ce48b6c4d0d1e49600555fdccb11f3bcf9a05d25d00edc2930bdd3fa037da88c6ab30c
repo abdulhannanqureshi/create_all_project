@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './ContactPage';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/ContactPage/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,eAAxB","sourcesContent":["export { default } from './ContactPage';\r\n"]},"metadata":{},"sourceType":"module"}

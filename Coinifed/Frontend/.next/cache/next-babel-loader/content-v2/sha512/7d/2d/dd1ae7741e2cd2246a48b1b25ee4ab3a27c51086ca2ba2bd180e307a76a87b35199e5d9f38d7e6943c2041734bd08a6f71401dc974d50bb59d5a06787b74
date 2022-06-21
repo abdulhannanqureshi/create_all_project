@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Story';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/About/components/Story/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["export { default } from './Story';\r\n"]},"metadata":{},"sourceType":"module"}

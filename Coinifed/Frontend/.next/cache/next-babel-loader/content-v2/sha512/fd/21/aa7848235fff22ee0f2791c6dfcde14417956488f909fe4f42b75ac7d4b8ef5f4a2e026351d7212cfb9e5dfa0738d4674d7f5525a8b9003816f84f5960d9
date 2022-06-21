@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './PressRelease';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Marketing/components/PressRelease/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,gBAAxB","sourcesContent":["export { default } from './PressRelease';\r\n"]},"metadata":{},"sourceType":"module"}

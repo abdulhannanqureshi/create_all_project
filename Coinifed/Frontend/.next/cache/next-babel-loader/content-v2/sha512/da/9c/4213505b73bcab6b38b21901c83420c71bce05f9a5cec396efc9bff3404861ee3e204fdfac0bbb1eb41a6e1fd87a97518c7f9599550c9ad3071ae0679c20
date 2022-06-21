@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './MostViewedArticles';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Blog/components/MostViewedArticles/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,sBAAxB","sourcesContent":["export { default } from './MostViewedArticles';\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './FooterNewsletter';","map":{"version":3,"sources":["C:/xampp/htdocs/coinfield/coinfied/frontend/src/views/Blog/components/FooterNewsletter/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,oBAAxB","sourcesContent":["export { default } from './FooterNewsletter';\r\n"]},"metadata":{},"sourceType":"module"}
